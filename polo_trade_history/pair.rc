@@ -1,0 +1,11 @@
+## Range to scrape
+date_end   = 2017-08-09 08:18:00
+date_begin = 2017-08-09 04:17:00 
+period     = 120
+
+## Pairs to scrape
+BTC_ETH
+BTC_XMR
+BTC_USDT
+BTC_XRP
+BTC_LTC
